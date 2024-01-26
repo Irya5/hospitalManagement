@@ -67,6 +67,7 @@ public class RegisterActivity extends AppCompatActivity {
         if(password.length() != 10) return false;
         for(int p = 0; p < password.length(); p++){
             if(!Character.isDigit(password.charAt(p))) return false;
+
         }
         return true;
     }
