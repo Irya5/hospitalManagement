@@ -14,6 +14,9 @@
         tools:targetApi="31">
         <activity
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 1282b5793d40d221b2f65f34737ce80a7f02f949
             android:name=".BookAppointmentActivity"
             android:exported="false" />
         <activity

@@ -29,6 +29,7 @@ public class HomeActivity extends AppCompatActivity {
                 editor.clear();
                 editor.apply();
                 startActivity(new Intent(HomeActivity.this, LoginActivity.class));
+                startActivity(new Intent(HomeActivity.this, LoginActivity.class));
             }
         });
         CardView findDoctor = findViewById(R.id.cardFindDoctor);
